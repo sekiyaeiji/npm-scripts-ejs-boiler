@@ -2,7 +2,7 @@
 
 /dist
 /tmp
-/package-lock.json
+package-lock.json
 
 ### https://raw.github.com/github/gitignore/690a433b668348c33087d34fafe2155ebe8bb4cf/Node.gitignore
 
